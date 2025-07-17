@@ -1,0 +1,37 @@
+[
+    {
+        "documento": "123",
+        "descricao": "biscoito",
+        "valor": 2.5,
+        "data": "2025-07-15",
+        "tipo": "Entrada"
+    },
+    {
+        "documento": "234",
+        "descricao": "chiclete",
+        "valor": 0.5,
+        "data": "2025-07-15",
+        "tipo": "Entrada"
+    },
+    {
+        "documento": "321",
+        "descricao": "coentro",
+        "valor": 1.99,
+        "data": "2025-07-15",
+        "tipo": "Entrada"
+    },
+    {
+        "documento": "205",
+        "descricao": "cebola",
+        "valor": 2.75,
+        "data": "2025-07-15",
+        "tipo": "Entrada"
+    },
+    {
+        "documento": "4321",
+        "descricao": "caneta",
+        "valor": 3.0,
+        "data": "2025-07-15",
+        "tipo": "Entrada"
+    },
+    
